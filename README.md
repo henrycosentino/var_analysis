@@ -1,7 +1,7 @@
 ## Project Overview:
 
   - The purpose of this project is to calculate the Value at Risk and analyze return distributions for a given portfolio.
-  - 
+    
 ## Steps Involved:
   - Read in historical stock data from yfinance.
   - Clean data frame and check data.
