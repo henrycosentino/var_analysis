@@ -11,5 +11,5 @@
     - Plots a histogram of the data
     - Calculates parametric portfolio VaR
     - Calculates historic percentile VaR
-    - Calculates monte carlo VaR
+    - Calculates Monte Carlo VaR
   - Apply the methods inside the class to the stock data from yfinance and analyze the data and VaR
